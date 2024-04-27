@@ -1,0 +1,22 @@
+.sugest {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+}
+ 
+.sugest img {
+    border-radius: 50%;
+    border: 3px solid #ff8501;
+    padding: 2px;
+    margin-bottom: 5px;
+    max-width: 100%;
+}
+
+.Sobres{
+    margin: 40px;
+    font-size: 12px;
+    color: rgb(98, 97, 99);
+}

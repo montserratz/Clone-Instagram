@@ -1,0 +1,45 @@
+.sugestoes{
+    gap: 8px;
+    height: 100px;
+   
+ 
+    justify-content: space-between;
+    margin: 20px 0 0;
+    padding: 5px;
+    width: 500px;
+}
+
+.sugest{
+    align-items: center;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.sugest img {
+    border-radius: 50%;
+    
+    padding: 2px;
+    margin-bottom: 5px;
+    max-width: 100%;
+    min-width: 45px;
+    height: 40px;
+    width: 10px;
+}
+
+.span{
+    margin-bottom: 50px;
+    font-size: 10px;
+}
+
+.seguir{
+
+    align-items: center;
+ color: rgb(77, 182, 182);
+    margin-left: 200px;
+}
+
+.p{
+    font-size: 10px;
+    color: blueviolet;
+}

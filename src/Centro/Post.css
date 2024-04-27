@@ -1,0 +1,60 @@
+
+.TituloPost{
+    
+   margin-left: 10px;
+    font-size: 15px;
+    margin-right: 0px;
+ 
+}
+
+.card-body{
+    align-items: start;
+   
+}
+.card-body img{
+    margin: 0px;
+    width: 450px;
+    height: 426px;
+}
+
+.card-header{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.card-header img {
+    border-radius: 50%;
+border: 3px solid #ff8501;
+padding: 2px;
+margin-bottom: 5px;
+max-width: 100%;
+width: 35px;
+height: 35px;
+display: flex;
+}
+
+.Nome{
+    font-weight: bold;
+    display: flex;
+}
+
+.Descricao{
+    display: flex;
+    margin-left: 10px;
+}
+
+.Bio{
+    margin: 0px;
+    margin-top: -30px;
+    display: flex;
+    height: fit-content;
+}
+
+.Curtidas{
+    margin-top: -10px;
+}
+
+.Reti{
+   margin-left: auto;
+}
